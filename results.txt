@@ -1,0 +1,71 @@
+bw_swirl.jpg (2560 x 1600 pixels)
+Trial 1
+Sobel edge detection ran in: 16.227360 msecs.
+Prewitt edge detection ran in: 16.155296 msecs.
+Robert's cross edge detection ran in: 16.199936 msecs.
+
+Trial 2
+Sobel edge detection ran in: 16.138592 msecs.
+Prewitt edge detection ran in: 16.237951 msecs.
+Robert's cross edge detection ran in: 16.227713 msecs.
+
+Trial 3
+Sobel edge detection ran in: 16.296032 msecs.
+Prewitt edge detection ran in: 16.200224 msecs.
+Robert's cross edge detection ran in: 16.218464 msecs.
+
+
+
+bw_hatgirl.jpg (512 x 512 pixels)
+Trial 1
+Sobel edge detection ran in: 1.693568 msecs.
+Prewitt edge detection ran in: 1.682848 msecs.
+Robert's cross edge detection ran in: 1.684320 msecs.
+
+Trial 2
+Sobel edge detection ran in: 1.703200 msecs.
+Prewitt edge detection ran in: 1.691104 msecs.
+Robert's cross edge detection ran in: 1.689248 msecs.
+
+Trial 3
+Sobel edge detection ran in: 1.737376 msecs.
+Prewitt edge detection ran in: 1.670880 msecs.
+Robert's cross edge detection ran in: 1.660832 msecs.
+
+
+
+bw_panda.jpg (600 x 480 pixels)
+Trial 1
+Sobel edge detection ran in: 1.695232 msecs.
+Prewitt edge detection ran in: 1.794208 msecs.
+Robert's cross edge detection ran in: 1.717280 msecs.
+
+Trial 2
+Sobel edge detection ran in: 1.837696 msecs.
+Prewitt edge detection ran in: 1.674784 msecs.
+Robert's cross edge detection ran in: 1.663104 msecs.
+
+Trial 3
+Sobel edge detection ran in: 1.754880 msecs.
+Prewitt edge detection ran in: 1.699456 msecs.
+Robert's cross edge detection ran in: 1.651712 msecs.
+
+
+
+bw_rocks.jpg (1680 x 1050 pixels)
+Trial 1
+Sobel edge detection ran in: 7.498560 msecs.
+Prewitt edge detection ran in: 7.518752 msecs.
+Robert's cross edge detection ran in: 7.431680 msecs.
+
+Trial 2
+Sobel edge detection ran in: 7.519200 msecs.
+Prewitt edge detection ran in: 7.499712 msecs.
+Robert's cross edge detection ran in: 7.458784 msecs.
+
+Trial 3
+Sobel edge detection ran in: 7.417120 msecs.
+Prewitt edge detection ran in: 7.504480 msecs.
+Robert's cross edge detection ran in: 7.453888 msecs.
+
+
